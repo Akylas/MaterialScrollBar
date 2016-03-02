@@ -7,3 +7,5 @@
 /build
 /captures
 *.iml
+lib/src/main/bin
+lib/src/main/gen
